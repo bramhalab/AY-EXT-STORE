@@ -1,0 +1,10 @@
+{
+  "owner": "YOUR-GITHUB-USERNAME",
+  "extensions": [
+    {
+      "repo": "speed-volume-boost",
+      "category": "Video & Audio",
+      "features": ["Speed 0.07× to 16×", "Volume boost to 800%", "3-band equalizer", "Per-site rules", "Light and dark theme"]
+    }
+  ]
+}
