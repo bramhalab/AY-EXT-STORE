@@ -2,7 +2,7 @@
   "owner": "YOUR-GITHUB-USERNAME",
   "extensions": [
     {
-      "repo": "speed-volume-boost",
+      "repo": "https://github.com/bramhalab/Speed-Volume-Extension",
       "category": "Video & Audio",
       "features": ["Speed 0.07× to 16×", "Volume boost to 800%", "3-band equalizer", "Per-site rules", "Light and dark theme"]
     }
